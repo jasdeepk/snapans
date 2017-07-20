@@ -38,7 +38,7 @@ form button {
   background: #eee;
 }
 .header {
-  background: #000;
+  background: #abc;
   background-position: center;
 }
 .header .page-title {
@@ -47,7 +47,7 @@ form button {
   text-align: center;
   padding: 100px;
   text-transform: lowercase;
-  color: #fff;
+  color: #000;
 }
 .nav {
   background: #000;
